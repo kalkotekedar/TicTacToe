@@ -1,4 +1,4 @@
-package com.example.kalkotekedar.ticktactoe;
+package com.example.kalkotekedar.tictactoe;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
